@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HaineNotFound
-- 👀 I’m interested in full stack 
+- 👀 I’m interested in full stack web dev
 - 📫 How to reach me, discord: dypn
